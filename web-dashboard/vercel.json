@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://YOUR_BACKEND_URL/api/:path*"
+      "destination": "https://hrms-backend-ci5d.onrender.com/api/:path*"
     },
     {
       "source": "/uploads/:path*",
-      "destination": "https://YOUR_BACKEND_URL/uploads/:path*"
+      "destination": "https://hrms-backend-ci5d.onrender.com/uploads/:path*"
     }
   ]
 }
